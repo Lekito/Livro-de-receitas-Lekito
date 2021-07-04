@@ -1,5 +1,10 @@
-# Livro de receitas :👨‍🍳
+# Livro de receitas 👨‍🍳
 
 Olá! Bem vindo ao livro de receitas :ok_hand:
  - Strogonoff de frango :chicken:
- - Pavê de maracujá 
+ - Filé de peixe frito
+
+
+## Doces e sobremesas 🍰
+
+ - Pavê de maracujá
